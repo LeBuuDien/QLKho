@@ -1,0 +1,10 @@
+D:\GITHUB\Test\QLKho\QLKho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe.config
+D:\GITHUB\Test\QLKho\QLKho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe
+D:\GITHUB\Test\QLKho\QLKho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.pdb
+D:\GITHUB\Test\QLKho\QLKho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.Form1.resources
+D:\GITHUB\Test\QLKho\QLKho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.Properties.Resources.resources
+D:\GITHUB\Test\QLKho\QLKho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.GenerateResource.cache
+D:\GITHUB\Test\QLKho\QLKho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CoreCompileInputs.cache
+D:\GITHUB\Test\QLKho\QLKho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe
+D:\GITHUB\Test\QLKho\QLKho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.pdb
+D:\GITHUB\Test\QLKho\QLKho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.AssemblyReference.cache
